@@ -1,4 +1,3 @@
-
 public class BubbleSort {
 	static void bubbleSort(int[] arr) {
 		int len = arr.length;
